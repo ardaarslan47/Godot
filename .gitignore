@@ -1,0 +1,17 @@
+# Godot
+.import/
+.godot/
+*.import
+*.uid
+.export/          # varsa
+export_presets.cfg  # istersen dışarıda tut
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build/artifacts
+*.exe
+*.apk
+*.zip
+*.pck

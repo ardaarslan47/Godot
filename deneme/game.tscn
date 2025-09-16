@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://c8axtql5ns81s"]
+
+[ext_resource type="PackedScene" uid="uid://dlpaotuhf5xb1" path="res://label.tscn" id="1_80nbo"]
+
+[node name="Node" type="Node"]
+
+[node name="Label" parent="." instance=ExtResource("1_80nbo")]

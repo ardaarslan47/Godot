@@ -1,0 +1,8 @@
+config_version=5
+
+[application]
+
+config/name="hello world"
+run/main_scene="uid://c8axtql5ns81s"
+config/features=PackedStringArray("4.5", "Forward Plus")
+config/icon="res://icon.svg"
